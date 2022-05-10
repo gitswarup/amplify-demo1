@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "amplifydemo1",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/swarupsarkar/src/aws/amplify-demo1/amplify/backend/api/amplifydemo1/schema.graphql",
+    "defaultAuthType": {
+      "mode": "AMAZON_COGNITO_USER_POOLS",
+      "cognitoUserPoolId": "authamplifydemo128183219"
+    }
+  }
+}
